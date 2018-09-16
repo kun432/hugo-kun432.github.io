@@ -1,0 +1,57 @@
+baseurl = "https://kun432.github.io/"
+languageCode = "ja-JP"
+title = "Kuniaki Shimizu"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "kun432-github"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-113389308-2"
+theme = "hugo-sustain-vitae"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Kuniaki Shimizu"
+  description = "Kuniaki Shimizu's Portfolio"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "kun432"
+  Email         = "kun432.8d1w@gmail.com"
+  Twitter       = "kun432"
+#  LinkedIn      = "username"
+#  Stackoverflow = "username"
+#  Medium        = "username"
+#  Telegram      = "username"
+
+[params.vitae]
+  website = "kun432.github.io"
+  website_full = "https://kun432.github.io/"
+#  tel = "+44 0000 000000"
+#  tel_full = "+440000000000"
+  google_maps = "https://www.google.co.jp/maps/place/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA/@34.7315238,135.192916,13z/data=!3m1!4b1!4m5!3m4!1s0x60008c015d1dfe99:0xe786b31b96838de5!8m2!3d34.7123285!4d135.2396571?hl=ja"
+  address = "Nada-ku"
+#  postcode = "EH3 5BL"
+  city = "Kobe, HYOGO"
+  country = "Japan"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "/vitae/"

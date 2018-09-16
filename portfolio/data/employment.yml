@@ -1,0 +1,31 @@
+name: Employment
+source:
+  - prof: System Development/Operation Team Leader
+    place: Osaka, JAPAN
+    time: 2015/4 to Present
+    description: Team leader of Development, Administration, and Operation for WiFi Hotspot service
+
+  - prof: Infrastructure Engineer
+    place: Osaka, JAPAN
+    time: 2008/4 to 2015/3
+    description: Servers and Network Administration/Operation for ISP
+
+  - prof: Infrastructure Engineer
+    place: Kobe, JAPAN
+    time: 2007/10 to 2008/03
+    description: Servers and Network Administration/Operation for ISP/SNS app/Inner-corporate Systems
+
+  - prof: Infrastructure Engineer
+    place: Osaka, JAPAN
+    time: 2004/6 to 2007/6
+    description: Servers and Network Administration/Operation for ISP
+  
+  - prof: Web Developer and Support Engineer
+    place: Tokyo/Osaka, JAPAN
+    time: 2003/5 to 2004/4
+    description: Developper and support engineer for Web-based Linux server administration app
+
+  - prof: Support Engineer
+    place: Osaka, JAPAN
+    time: 2001/7 to 2003/3
+    description: Support Engineer for Catalog Creation System of a printing company

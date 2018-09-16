@@ -1,0 +1,21 @@
+<section class="thirteen columns">
+  <h1>{{ .Site.Data.certifications.name }}</h1>
+  {{ range .Site.Data.certifications.source }}
+  <article>
+    <header>
+      <div class="cert-logo">
+        <a href="{{ .cert_url }}"><img src="{{ .logo_url }}" width="100" /></a>
+      </div>
+      <div class="cert-text">
+        <h1>{{ .title }}</h1>
+        <span><time>{{ .date }}</time></span>
+        <p>
+          <a href="{{ .cert_url }}">display certicication</a>
+        {{ if .cert_url_opt }}
+        <span>&nbsp;&nbsp;*required to enter ID: {{ .cert_url_opt.id }} / Code: {{ .cert_url_opt.code }}</span>
+        {{ end }}
+      </div>
+    </header>
+  </article>
+  {{ end }}
+</section>

@@ -1,0 +1,43 @@
+name: Skills and Experience
+category: 
+
+  - title: Server Administration
+    source:
+    - name: [Linux, Solaris]
+      stars: 5
+    - name: [Virtualization(VMWare/Solaris Containers)]
+      stars: 3
+    - name: [Apache]
+      stars: 4
+    - name: [DNS, Bind]
+      stars: 5
+    - name: [SMTP(Postfix/qmail), POP3, IMAP]
+      stars: 5
+    - name: [LDAP, Radius]
+      stars: 4
+    - name: [DHCP]
+      stars: 4
+    - name: [Shell Script]
+      stars: 4
+    - name: [Perl]
+      stars: 5
+
+  - title: Network Administration
+    source:
+    - name: [Load Balancing]
+      stars: 4
+    - name: [Cisco L2/L3 Switch]
+      stars: 4
+    - name: [IPSec VPN]
+      stars: 3
+
+  - title: Software engineering
+    source:
+    - name: [HTML]
+      stars: 5
+    - name: [Javascript/Node.js]
+      stars: 3
+    - name: [PHP]
+      stars: 3
+    - name: [Go]
+      stars: 2

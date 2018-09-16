@@ -1,0 +1,4 @@
+[submodule "portfolio/themes/hugo-sustain-vitae"]
+	path = portfolio/themes/hugo-sustain-vitae
+	url = https://github.com/anirbanmu/hugo-sustain-vitae.git
+	branch = master
