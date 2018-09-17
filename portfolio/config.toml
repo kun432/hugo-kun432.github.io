@@ -44,12 +44,17 @@ theme = "hugo-sustain-vitae"
   name = "blog"
   weight = 100
   identifier = "blog"
-  url = "/blog/"
+  url = "https://kun432.hatenablog.com/"
 [[menu.main]]
-  name = "projects"
-  identifier = "projects"
-  weight = 200
-  url = "/projects/"
+  name = "works"
+  weight = 100
+  identifier = "works"
+  url = "/works/"
+#[[menu.main]]
+#  name = "projects"
+#  identifier = "projects"
+#  weight = 200
+#  url = "/projects/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"

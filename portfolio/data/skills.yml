@@ -17,9 +17,11 @@ category:
       stars: 4
     - name: [DHCP]
       stars: 4
+    - name: [Database(MySQL, PostgreSQL)]
+      stars: 3
     - name: [Shell Script]
       stars: 4
-    - name: [Perl]
+    - name: [Perl<i class="fa fa-heart"></i>]
       stars: 5
 
   - title: Network Administration

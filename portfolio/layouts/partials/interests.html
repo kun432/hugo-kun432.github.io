@@ -1,0 +1,8 @@
+<section class="thirteen columns">
+  <h1>{{ .Site.Data.interests.name }}</h1>
+  <article>
+    {{ range .Site.Data.interests.source }}
+    <p><i class="fa fa-eye"></i>&nbsp;&nbsp;{{ . }}</p>
+    {{ end }}
+  </article>
+</section>
