@@ -13,7 +13,7 @@ draft = false
 
 ### **はじめに**
 
-Clovaアプリ「HTTPステータス検索」のページです。```(※2018/9/24現在、申請中です)```
+Clovaアプリ「HTTPステータス検索」のページです。
 
 <img src="/img/icon-clova-skill-http-status-code.jpg" width=250 />
 
@@ -61,8 +61,8 @@ https://github.com/kun432/clova-skill-http-status-code
 
 ### **更新履歴**
 
-- v1.0(2018/9/24)
-  - ※申請中
+- v1.0(2018/9/25)
+  - 公開
 
 ### **プライバシーポリシー**
 
