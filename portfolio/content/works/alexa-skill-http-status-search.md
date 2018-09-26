@@ -60,7 +60,7 @@ Alexaスキル「HTTPステータス検索」のページです。
 <br />
 コードはGithubで公開予定です。
 <br />
-https://github.com/kun432/clova-skill-http-status-code
+https://github.com/kun432/alexa-skill-http-status-code
 
 ### **今後の予定**
 
