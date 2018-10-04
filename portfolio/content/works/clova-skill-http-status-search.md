@@ -13,7 +13,7 @@ draft = false
 
 ### **はじめに**
 
-Clovaアプリ「HTTPステータス検索」のページです。
+Clovaスキル「HTTPステータス検索」のページです。
 
 <img src="/img/icon-clova-skill-http-status-code.jpg" width=250 />
 
@@ -55,7 +55,7 @@ CEKのExtension Serverは、公式のハンズオン等ではHerokuが使用さ�
 コードは、CEK SDK for Node.jsを使用しています。AlexaとClovaで日本語の認識に差があったり、スロットのエラー処理がやや異なる、などの差異があったもの、比較的ライトに対応でき、Alexaスキル「HTTPステータスコード」から流用できた部分が多かったこと、ClovaにおけるLambda実装例も揃ってきたこともあり、全体的には短期間で実装できました。
 <br />
 <br />
-コードはGithubで公開予定です。
+コードはGithubで公開してます。
 <br />
 https://github.com/kun432/clova-skill-http-status-code
 

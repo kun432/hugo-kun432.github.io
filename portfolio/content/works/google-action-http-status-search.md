@@ -13,7 +13,7 @@ draft = false
 
 ### **はじめに**
 
-Actions on Googleアプリ「HTTPステータス検索」のページです。```(※2018/10/2現在、申請準備中です)```
+Actions on Googleアプリ「HTTPステータス検索」のページです。
 
 <img src="/img/google-action-http-status-logo.png" width=600>
 
@@ -62,8 +62,8 @@ Alexa、Clovaに続いて、Google Home向けのアクションとして対応�
 https://github.com/kun432/google-action-http-status-code
 ### **更新履歴**
 
-- v1.0(2018/10/2)
-  - 申請準備中
+- v1.0(2018/10/4)
+  - 公開
 
 ### **プライバシーポリシー**
 
