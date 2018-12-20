@@ -15,12 +15,12 @@ source:
 
   - title: AWS Certified SysOps Administrator - Associate
     logo_url: /img/sysops_administrator_associate.png
-    date: 2014/11 to 2018/11
+    date: 2014/12 to 2018/12 (Currently Expired)
     cert_url: https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2014-12-25&ci=AWS00166946
 
   - title: AWS Certified Solutions Architect - Associate
     logo_url: /img/solutions_architect_associate.png
-    date: 2014/12 to 2018/12
+    date: 2014/12 to 2020/11
     cert_url: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2014-11-27&ci=AWS00166946
 
   - title: LPIC-2
