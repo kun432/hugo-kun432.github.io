@@ -11,7 +11,7 @@ theme = "hugo-sustain-vitae"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
+  avatar = "kun432_github.png"
   author = "Kuniaki Shimizu"
   description = "Kuniaki Shimizu's Portfolio"
 
@@ -55,6 +55,11 @@ theme = "hugo-sustain-vitae"
 #  identifier = "projects"
 #  weight = 200
 #  url = "/projects/"
+[[menu.main]]
+  name = "repository"
+  weight = 100
+  identifier = "repository"
+  url = "https://github.com/kun432/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"
