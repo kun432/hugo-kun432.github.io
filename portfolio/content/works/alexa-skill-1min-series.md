@@ -1,7 +1,7 @@
 +++
 author = "Kunikai Shimizu"
 date = "2019-02-11"
-title = "Alexaスキル「１分間キャンドル」「１分間暖炉」「１分間サンセット（審査中）」"
+title = "Alexaスキル「１分間キャンドル」「１分間暖炉」「１分間サンセット」"
 linktitle = ""
 description = ""
 tags = []
@@ -13,10 +13,11 @@ draft = false
 
 ### **はじめに**
 
-Alexaスキル「１分間キャンドル」「１分間暖炉」「１分間サンセット（審査中）」のページです。
+Alexaスキル「１分間キャンドル」「１分間暖炉」「１分間サンセット」のページです。
 
 <img src="/img/alexa-skill-1min-candle-icon.png" width=250 />
 <img src="/img/alexa-skill-1min-fireplace-icon.png" width=250 />
+<img src="/img/alexa-skill-1min-sunset-icon.png" width=250 />
 
 <img src="">
 
@@ -32,7 +33,7 @@ Alexaスキル「１分間キャンドル」「１分間暖炉」「１分間サ
 - [**更新履歴**](#更新履歴)
   - [「１分間キャンドル」](#１分間キャンドル)
   - [「１分間暖炉」](#１分間暖炉)
-  - [「１分間3セット」](#１分間3セット)
+  - [「１分間サンセット」](#１分間サンセット)
 - [**プライバシーポリシー**](#プライバシーポリシー)
 
 <!-- /TOC -->
@@ -89,7 +90,7 @@ Alexaスキル「１分間キャンドル」「１分間暖炉」「１分間サ
 <br />
 https://github.com/kun432/alexa-skill-1min-candle<br />
 https://github.com/kun432/alexa-skill-1min-fireplace<br />
-https://github.com/kun432/alexa-skill-1min-sunset
+https://github.com/kun432/alexa-skill-1min-sunset<br />
 
 ### **今後の予定**
 
@@ -108,10 +109,10 @@ https://github.com/kun432/alexa-skill-1min-sunset
 - v1.0(2019/01/31)
   - 公開
 
-#### 「１分間3セット」
+#### 「１分間サンセット」
 
-- v1.0(2019/02/12)
-  - 申請中
+- v1.0(2019/02/13)
+  - 公開
 
 ### **プライバシーポリシー**
 
