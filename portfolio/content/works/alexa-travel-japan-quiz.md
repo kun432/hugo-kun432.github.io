@@ -47,13 +47,14 @@ Alexaスキル「Travel Japan Quiz」のページです。
 ### **実装について**
 
 "Alexa Skill Blueprints" は、予め用意されているテンプレートをベースにプライベートなスキルを作ることができる公式サービスで、現時点ではUSのみ利用可能となっていますが、先日ストアへの申請が可能になったので、今後日本でも利用可能になることを踏まえて作ってみました。
-
+<br />
+<br />
 詳細は以下にまとめてありますので、そちらもご覧ください。
 
 - [Alexa Skill Blueprintsでスキルを作って申請してみた（USのみ） - kun432's blog](https://kun432.hatenablog.com/entry/alexa_skill_blueprints)
 - [Alexa Skill Blueprintsでスキルをリリースしてみた（USのみ） - kun432's blog](https://kun432.hatenablog.com/entry//alexa_skill_blueprints_released)
 
-技術的な要素は何もありませんが、こういったノンコーディングでスキルが作成できるサービスは現時点でも[Invocable](https://www.invocable.com/), [Voiceflow](https://getvoiceflow.com/), [NOID](https://www.noid.ai/)などがあり、コードが書けなくても直感的に作れるサービスが増えてくることで、スキル開発者が増えることが期待できますし、スキルの内容によって、コードを書くかノンコーディングツールを使うか、どちらが効率的か？を選択するようなシチュエーションが出てくると思いますので、今後も注目していきたいと思います。
+技術的な要素は何もありませんが、こういったノンコーディングでスキルが作成できるサービスは現時点でも[Invocable](https://www.invocable.com/), [Voiceflow](https://getvoiceflow.com/), [NOID](https://www.noid.ai/)などがあり、コードが書けなくても直感的に作れるサービスが増えてくることで、スキル開発者が増えることが期待できます。コードが書ける場合でも、コードを書くかノンコーディングツールを使うか、スキルの性質やスピード感なども踏まえて、どちらがよいか？を選択するようなシチュエーションが出てくると思います。今後も注目していきたいと思います。
 
 ### **今後の予定**
 
