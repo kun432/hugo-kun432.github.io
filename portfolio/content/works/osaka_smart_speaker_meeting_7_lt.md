@@ -21,6 +21,10 @@ draft = false
 
 <script async class="speakerdeck-embed" data-id="8e5f8c9b4e7048e4ae22adb9b3a57c2a" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>
 
+#### **動画（23:00〜50:40あたり）**
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdiberidarshi%2Fvideos%2F1225901844228037%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 ### **内容**
 
 社外では初のLTです。Alexa HostedとAlexa Skill Blueprintsについて喋ってきました。
