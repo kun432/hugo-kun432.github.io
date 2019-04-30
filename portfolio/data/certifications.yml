@@ -5,13 +5,10 @@ source:
     date: 2018/8 to 2020/7
     cert_url: https://www.credential.net/burr5v5z?key=d3eeaf488c961caeb914682e436066be3b5424424a6b8b73dbbca82aba2b3621
   
-  - title: LPIC-3:304 (Virtualization and High Availability)
-    logo_url: /img/LPIC3-304-Medium.png
-    date: 2017/9 to 2022/9
-    cert_url: https://cs.lpi.org/caf/Xamman/certification 
-    cert_url_opt:
-      id: LPI000226229 
-      code: rkavb2hy5d
+  - title: AWS Certified Developer - Associate
+    logo_url: /img/developer_associate.png
+    date: 2019/04 to 2022/4
+    cert_url: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-04-28&ci=AWS00166946
 
   - title: AWS Certified SysOps Administrator - Associate
     logo_url: /img/sysops_administrator_associate.png
@@ -22,6 +19,14 @@ source:
     logo_url: /img/solutions_architect_associate.png
     date: 2014/12 to 2020/11
     cert_url: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2014-11-27&ci=AWS00166946
+
+  - title: LPIC-3:304 (Virtualization and High Availability)
+    logo_url: /img/LPIC3-304-Medium.png
+    date: 2017/9 to 2022/9
+    cert_url: https://cs.lpi.org/caf/Xamman/certification 
+    cert_url_opt:
+      id: LPI000226229 
+      code: rkavb2hy5d
 
   - title: LPIC-2
     logo_url: /img/LPIC-2-Medium.png
