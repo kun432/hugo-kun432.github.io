@@ -1,5 +1,10 @@
 name: Certifications
 source:
+  - title: AWS Certified Alexa Skill Builder - Speciality
+    logo_url: /img/alexa_skill_builder.png
+    date: 2019/9 to 2022/9
+    cert_url: https://www.certmetrics.com/amazon/public/badge.aspx?i=11&t=c&d=2019-09-01&ci=AWS00166946
+
   - title: Google Cloud Certified - Professional Cloud Architect
     logo_url: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/11773132?key=d3eeaf488c961caeb914682e436066be3b5424424a6b8b73dbbca82aba2b3621
     date: 2018/8 to 2020/7
