@@ -1,5 +1,10 @@
 name: Employment
 source:
+  - prof: Infrastructure Engineer
+    place: Osaka, JAPAN
+    time: 2015/6 to now
+    description: Servers and Network Administration/Operation for Marketing Platform
+
   - prof: System Development/Operation Team Leader
     place: Osaka, JAPAN
     time: 2015/4 to 2019/5
